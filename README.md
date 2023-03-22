@@ -1,7 +1,7 @@
 # notebook-studies
  A collection of notebooks which include some simple and some complex machine learning and deep learning projects.
  
-## Noteable Notebooks
+## Notable Notebooks
  Some notebooks worth checking out include:
  
 ### G2Net Gravitational Waves
@@ -24,13 +24,17 @@
   - Force Atlas
   - Fruchterman Reingold 
   - OpenOrd 
-  - Modularity
+  - Modularity Community Detection
   
 ### Who Owns America
-  A look at instutional holdings of companies held on the S&P500 stock market index.
+  A look at institutional holdings of companies held on the S&P500 stock market index.
   
 ### Chat Toxicity Detection (Twitch)
-  Natural Language Processing for multi-modal toxicity detection 
+  Natural Language Processing for multi-modal toxicity detection and moderation triggers/flagging
   
 ### The Witcher Network Analysis
-  Detecting relationships between characters in The Witcher books
+  Detecting relationships between characters in The Witcher books using NLP, technologies included:
+  - spaCy
+  - Web Scraping with BeautifulSoup
+  - Network Visualisations with NetworkX
+  - Community Detection with Community
